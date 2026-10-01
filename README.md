@@ -1,14 +1,17 @@
-# Karel the Robot
+# Hi, I'm Vinay Sharma 👋
 
-My work from the Karel weeks of COSC 10001 at TCU. This project uses Karel
-to solve programming problems using basic commands and control structures.
+I'm a first-year Computer Science student at Texas Christian University (TCU), originally from Chandigarh, India 🇮🇳.
 
-## How to Run
+## What I'm Interested In
 
-Open the project in IntelliJ and run the program using the green Run button.
+I'm interested in software development, artificial intelligence, robotics, and building technology that can solve real-world problems. I'm currently learning more about programming, software engineering, and computer science through my coursework and personal projects.
 
-## What I Learned
+## What I'm Building
 
-- How to use Karel's basic commands to solve problems.
-- How to create reusable methods.
-- How to use loops and conditionals to make Karel's code more efficient.
+I'm currently working on programming projects while building my foundation in computer science. I'm especially interested in creating practical applications and exploring how AI and software can be used to solve real-world problems.
+
+### Connect With Me
+
+- GitHub: https://github.com/VinaySharma0718
+- LinkedIn: www.linkedin.com/in/vinay-sharma-tcu
+
